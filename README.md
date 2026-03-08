@@ -22,7 +22,6 @@ Hipoteza 2: Najczęstsze przyczyny DNF — w tym awarie techniczne, incydenty wy
 Pytanie 3. Czy można statystycznie określić, który kierowca jest najbardziej efektywny w historii Formuły 1?
 Hipoteza 3: Najwyższą efektywność osiągają kierowcy charakteryzujący się najwyższym stosunkiem zdobyczy punktowych, zwycięstw i miejsc na podium do liczby startów, po uwzględnieniu przewagi sprzętowej zespołów.
 
----
 
 ## Kluczowe Odkrycia
 
