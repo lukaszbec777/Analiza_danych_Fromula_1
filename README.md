@@ -14,10 +14,8 @@ Projekt wykorzystuje metody statystyczne i wizualizacje danych, aby przekształc
 ## Pytania badawcze
 Pytanie 1. Jakie czynniki determinują wynik kierowcy w wyścigu Formuły 1?
 Hipoteza 1: Wynik końcowy kierowcy jest zależny od jednoczesnego wpływu czynników sportowych, technicznych i strategicznych.
-
 Pytanie 2. Jakie są główne przyczyny nieukończenia wyścigów (DNF) w Formule 1 i w jaki sposób wpływają one na punktację kierowców oraz niezawodność techniczną zespołów w sezonie?
 Hipoteza 2: Najczęstsze przyczyny DNF — w tym awarie techniczne, incydenty wyścigowe i błędy kierowców — prowadzą do obniżenia dorobku punktowego kierowców oraz ujawniają istotne różnice w niezawodności technicznej poszczególnych zespołów.
-
 Pytanie 3. Czy można statystycznie określić, który kierowca jest najbardziej efektywny w historii Formuły 1?
 Hipoteza 3: Najwyższą efektywność osiągają kierowcy charakteryzujący się najwyższym stosunkiem zdobyczy punktowych, zwycięstw i miejsc na podium do liczby startów, po uwzględnieniu przewagi sprzętowej zespołów.
 ---
