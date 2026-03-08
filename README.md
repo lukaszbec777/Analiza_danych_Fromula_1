@@ -7,6 +7,7 @@ Celem niniejszego projektu jest eksploracyjna analiza danych historycznych Formu
 - identyfikacji sportowych, technicznych i strategicznych czynników wpływających na wyniki wyścigów,
 - zrozumieniu głównych przyczyn DNF i ich wpływu na punktację kierowców oraz niezawodność techniczną zespołów,
 - statystycznym określeniu, którzy kierowcy osiągali największą efektywność w historii F1, z uwzględnieniem liczby startów, zdobyczy punktowych i przewagi sprzętowej zespołów.
+
 Projekt wykorzystuje metody statystyczne i wizualizacje danych, aby przekształcić surowe informacje sportowe w czytelne wnioski analityczne, pozwalające na porównania między kierowcami i zespołami oraz ocenę trendów historycznych.
 
 
